@@ -32,6 +32,15 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@%E5%B0%8F%E7%89%9B%E8%AC%9B%E6%AD%A3%E7%B6%93',
     itemFilters: ItemFiltersPreset.between3minTo60Min,
   },
+
+  // ===== 以上 5 個 =====
+
+  {
+    title: '爱否科技 評 3C',
+    feedID: 'FView-CN',
+    homepageURL: 'https://www.youtube.com/@FView-CN',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },  
 ]
 
 // 
