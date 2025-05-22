@@ -26,6 +26,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@isbonny',
     itemFilters: ItemFiltersPreset.between3minTo60Min,
   },
+  {
+    title: '小牛講正經 講 故事',
+    feedID: 'andyko1988',
+    homepageURL: 'https://www.youtube.com/@%E5%B0%8F%E7%89%9B%E8%AC%9B%E6%AD%A3%E7%B6%93',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
 ]
 
 // 
