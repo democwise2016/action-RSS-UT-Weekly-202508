@@ -40,7 +40,13 @@ let feedList = [
     feedID: 'FView-CN',
     homepageURL: 'https://www.youtube.com/@FView-CN',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },  
+  },
+  {
+    title: 'epcdiy 聊 科技',
+    feedID: 'epcdiy',
+    homepageURL: 'https://www.youtube.com/@epcdiy/videos',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
