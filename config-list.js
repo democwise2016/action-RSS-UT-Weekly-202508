@@ -74,6 +74,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@%E5%85%88%E7%9C%8B%E8%AF%84%E6%B5%8B/videos',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '數位宇宙',
+    feedID: 'digitaluniverse616',
+    homepageURL: 'https://www.youtube.com/@%E6%95%B8%E4%BD%8D%E5%AE%87%E5%AE%99',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
