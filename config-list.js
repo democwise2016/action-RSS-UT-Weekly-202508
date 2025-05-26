@@ -65,6 +65,15 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@whyyoutouzhele',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  // ===== 以上 10 個 =====
+
+  {
+    title: '先看评测 聊 3C',
+    feedID: 'Prelook',
+    homepageURL: 'https://www.youtube.com/@%E5%85%88%E7%9C%8B%E8%AF%84%E6%B5%8B/videos',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
