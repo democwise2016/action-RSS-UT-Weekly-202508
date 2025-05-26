@@ -59,6 +59,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@applemei',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '李老師 聊 中國',
+    feedID: 'whyyoutouzhele',
+    homepageURL: 'https://www.youtube.com/@whyyoutouzhele',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
