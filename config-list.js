@@ -26,6 +26,45 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@isbonny',
     itemFilters: ItemFiltersPreset.between3minTo60Min,
   },
+  {
+    title: '小牛講正經 講 故事',
+    feedID: 'andyko1988',
+    homepageURL: 'https://www.youtube.com/@%E5%B0%8F%E7%89%9B%E8%AC%9B%E6%AD%A3%E7%B6%93',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
+
+  // ===== 以上 5 個 =====
+
+  {
+    title: '爱否科技 評 3C',
+    feedID: 'FView-CN',
+    homepageURL: 'https://www.youtube.com/@FView-CN',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'epcdiy 聊 科技',
+    feedID: 'epcdiy',
+    homepageURL: 'https://www.youtube.com/@epcdiy/videos',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '蘋果迷 聊 科技',
+    feedID: 'applefans520',
+    homepageURL: 'https://www.youtube.com/@applefans520',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '蘋果妹 聊 科技',
+    feedID: 'applemei',
+    homepageURL: 'https://www.youtube.com/@applemei',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '李老師 聊 中國',
+    feedID: 'whyyoutouzhele',
+    homepageURL: 'https://www.youtube.com/@whyyoutouzhele',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
