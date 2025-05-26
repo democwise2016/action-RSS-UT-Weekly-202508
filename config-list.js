@@ -47,6 +47,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@epcdiy/videos',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '蘋果迷 聊 科技',
+    feedID: 'applefans520',
+    homepageURL: 'https://www.youtube.com/@applefans520',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '蘋果妹 聊 科技',
+    feedID: 'applemei',
+    homepageURL: 'https://www.youtube.com/@applemei',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
