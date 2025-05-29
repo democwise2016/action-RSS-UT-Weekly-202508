@@ -80,12 +80,6 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/@%E6%95%B8%E4%BD%8D%E5%AE%87%E5%AE%99',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  {
-    title: '红酒汤姆一世 聊 遊戲',
-    feedID: 'redwinetom',
-    homepageURL: 'https://www.youtube.com/@redwinetom',
-    itemFilters: ItemFiltersPreset.between3minTo60Min,
-  },
 ]
 
 // 
