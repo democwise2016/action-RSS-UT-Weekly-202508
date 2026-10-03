@@ -126,38 +126,6 @@
       <itunes:image href="https://i.ytimg.com/vi/PxMEeYp6q7A/hqdefault.jpg"/>
       <pubDate>2026-08-06T09:34:44.000Z</pubDate>
     </item><item>
-      <title><![CDATA[【Fun科技】塞入滿血DeepSeek V4 Flash：無限Token！兩臺英偉達電腦“交火”，有多強？?MSI EdgeXpert(DGXSpark)雙機實測]]></title>
-      <link>https://www.youtube.com/watch?v=gWUtJeZAnV4</link>
-      <itunes:title><![CDATA[【Fun科技】塞入滿血DeepSeek V4 Flash：無限Token！兩臺英偉達電腦“交火”，有多強？?MSI EdgeXpert(DGXSpark)雙機實測]]></itunes:title>
-      <itunes:author><![CDATA[FUN科技]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/gWUtJeZAnV4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 NVIDIA DGX Spark 與 EdgeXpert AI 桌面微型主機的硬體規格與雙機互聯技術。</li><li>實測 DeepSeek V3 Flash、Qwen 3.5 397B 及 MiniMax M2 等大型 MoE 模型在雙機交火下的性能與吞吐量表現。</li><li>分析雙 200G 網線直連對本地部署大模型在數據隱私、安全性與運算效率上的實質價值。</li></ul><hr /><h1>摘要</h1><h2>NVIDIA 桌面 AI 微型主機硬體解析 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_115.jpg" /></p></h2><p>作者介紹了來自研華的 <strong>EdgeXpert</strong>，這是一台基於 NVIDIA 技術的桌面 AI 微型主機。該硬體搭載 <strong>GB10 Blackwell 晶片</strong>與 128GB 統一記憶體，具備媲美 RTX 5070 的 GPU 核心，提供高達 <strong>1 PFLOPS (FP4)</strong> 的 AI 算力，可以在本地端運行高達 2000 億參數的低精度大語言模型。</p><h2>雙機 200G 網線直連與集群配置 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_182.jpg" /></p></h2><p>為突破單機容量與算力極限，作者透過 <strong>200Gb QSFP 線纜</strong> 將兩台 EdgeXpert 主機進行直連。利用 <strong>Ray 框架</strong> 負責任務分配與 <strong>NCCL</strong> 進行高速數據交換，成功建立雙機局域網集群，實現模型權重的分片運算與雙機協同推理。</p><h2>大型 MoE 模型實測與效能表現 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_277.jpg" /></p></h2><p>在雙機環境下，作者實測了多款大型 MoE 模型：<strong>Qwen 3.5 397B</strong> 需依靠雙機共享記憶體才能完整加載；<strong>DeepSeek V3 Flash</strong> 在高並發下達到約 <strong>54 tokens/s</strong> 的總吞吐量；而 <strong>MiniMax M2</strong> 的總吞吐量更突破 <strong>124 tokens/s</strong>，展現出顯著的集群擴展效能。</p><h2>雙網線優化與本地部署價值 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_384.jpg" /></p></h2><p>作者進一步測試雙 200G 網線插滿後的性能提升，發現 Qwen 與 DeepSeek 的推理速度分別獲得 <strong>14% 與 12% 的增長</strong>。作者總結，這種本地雙機部署具備極高的<strong>數據隱私與安全性</strong>，非常適合實驗室與企業團隊進行複雜推理、代碼分析與私有數據庫構建。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><p>#FUN科技 #電腦組裝 #電腦 #生活 #科技</p><p>古時候，我們想讓電腦再快一點，會插上兩張顯卡，而現在，兩臺mini主機也能“交火”啦</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/gWUtJeZAnV4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 NVIDIA DGX Spark 與 EdgeXpert AI 桌面微型主機的硬體規格與雙機互聯技術。</li><li>實測 DeepSeek V3 Flash、Qwen 3.5 397B 及 MiniMax M2 等大型 MoE 模型在雙機交火下的性能與吞吐量表現。</li><li>分析雙 200G 網線直連對本地部署大模型在數據隱私、安全性與運算效率上的實質價值。</li></ul><hr /><h1>摘要</h1><h2>NVIDIA 桌面 AI 微型主機硬體解析 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_115.jpg" /></p></h2><p>作者介紹了來自研華的 <strong>EdgeXpert</strong>，這是一台基於 NVIDIA 技術的桌面 AI 微型主機。該硬體搭載 <strong>GB10 Blackwell 晶片</strong>與 128GB 統一記憶體，具備媲美 RTX 5070 的 GPU 核心，提供高達 <strong>1 PFLOPS (FP4)</strong> 的 AI 算力，可以在本地端運行高達 2000 億參數的低精度大語言模型。</p><h2>雙機 200G 網線直連與集群配置 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_182.jpg" /></p></h2><p>為突破單機容量與算力極限，作者透過 <strong>200Gb QSFP 線纜</strong> 將兩台 EdgeXpert 主機進行直連。利用 <strong>Ray 框架</strong> 負責任務分配與 <strong>NCCL</strong> 進行高速數據交換，成功建立雙機局域網集群，實現模型權重的分片運算與雙機協同推理。</p><h2>大型 MoE 模型實測與效能表現 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_277.jpg" /></p></h2><p>在雙機環境下，作者實測了多款大型 MoE 模型：<strong>Qwen 3.5 397B</strong> 需依靠雙機共享記憶體才能完整加載；<strong>DeepSeek V3 Flash</strong> 在高並發下達到約 <strong>54 tokens/s</strong> 的總吞吐量；而 <strong>MiniMax M2</strong> 的總吞吐量更突破 <strong>124 tokens/s</strong>，展現出顯著的集群擴展效能。</p><h2>雙網線優化與本地部署價值 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_384.jpg" /></p></h2><p>作者進一步測試雙 200G 網線插滿後的性能提升，發現 Qwen 與 DeepSeek 的推理速度分別獲得 <strong>14% 與 12% 的增長</strong>。作者總結，這種本地雙機部署具備極高的<strong>數據隱私與安全性</strong>，非常適合實驗室與企業團隊進行複雜推理、代碼分析與私有數據庫構建。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><p>#FUN科技 #電腦組裝 #電腦 #生活 #科技</p><p>古時候，我們想讓電腦再快一點，會插上兩張顯卡，而現在，兩臺mini主機也能“交火”啦</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/gWUtJeZAnV4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解 NVIDIA DGX Spark 與 EdgeXpert AI 桌面微型主機的硬體規格與雙機互聯技術。</li><li>實測 DeepSeek V3 Flash、Qwen 3.5 397B 及 MiniMax M2 等大型 MoE 模型在雙機交火下的性能與吞吐量表現。</li><li>分析雙 200G 網線直連對本地部署大模型在數據隱私、安全性與運算效率上的實質價值。</li></ul><hr /><h1>摘要</h1><h2>NVIDIA 桌面 AI 微型主機硬體解析 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_115.jpg" /></p></h2><p>作者介紹了來自研華的 <strong>EdgeXpert</strong>，這是一台基於 NVIDIA 技術的桌面 AI 微型主機。該硬體搭載 <strong>GB10 Blackwell 晶片</strong>與 128GB 統一記憶體，具備媲美 RTX 5070 的 GPU 核心，提供高達 <strong>1 PFLOPS (FP4)</strong> 的 AI 算力，可以在本地端運行高達 2000 億參數的低精度大語言模型。</p><h2>雙機 200G 網線直連與集群配置 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_182.jpg" /></p></h2><p>為突破單機容量與算力極限，作者透過 <strong>200Gb QSFP 線纜</strong> 將兩台 EdgeXpert 主機進行直連。利用 <strong>Ray 框架</strong> 負責任務分配與 <strong>NCCL</strong> 進行高速數據交換，成功建立雙機局域網集群，實現模型權重的分片運算與雙機協同推理。</p><h2>大型 MoE 模型實測與效能表現 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_277.jpg" /></p></h2><p>在雙機環境下，作者實測了多款大型 MoE 模型：<strong>Qwen 3.5 397B</strong> 需依靠雙機共享記憶體才能完整加載；<strong>DeepSeek V3 Flash</strong> 在高並發下達到約 <strong>54 tokens/s</strong> 的總吞吐量；而 <strong>MiniMax M2</strong> 的總吞吐量更突破 <strong>124 tokens/s</strong>，展現出顯著的集群擴展效能。</p><h2>雙網線優化與本地部署價值 <p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/gWUtJeZAnV4_384.jpg" /></p></h2><p>作者進一步測試雙 200G 網線插滿後的性能提升，發現 Qwen 與 DeepSeek 的推理速度分別獲得 <strong>14% 與 12% 的增長</strong>。作者總結，這種本地雙機部署具備極高的<strong>數據隱私與安全性</strong>，非常適合實驗室與企業團隊進行複雜推理、代碼分析與私有數據庫構建。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=gWUtJeZAnV4">https://www.youtube.com/watch?v=gWUtJeZAnV4</a></p><p>#FUN科技 #電腦組裝 #電腦 #生活 #科技</p><p>古時候，我們想讓電腦再快一點，會插上兩張顯卡，而現在，兩臺mini主機也能“交火”啦</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/gWUtJeZAnV4/hqdefault.jpg"/>
-      <pubDate>2026-08-04T02:24:38.000Z</pubDate>
-    </item><item>
       <title><![CDATA[【Fun科技】【2026年7月配置單推薦】爆肝30天！15套從3K+到2W+全實測，幀數功耗溫度全公開，遊戲生產力顏值全到位，暑假裝機看這篇就夠了！！！]]></title>
       <link>https://www.youtube.com/watch?v=IwaPxhTlNLA</link>
       <itunes:title><![CDATA[【Fun科技】【2026年7月配置單推薦】爆肝30天！15套從3K+到2W+全實測，幀數功耗溫度全公開，遊戲生產力顏值全到位，暑假裝機看這篇就夠了！！！]]></itunes:title>
