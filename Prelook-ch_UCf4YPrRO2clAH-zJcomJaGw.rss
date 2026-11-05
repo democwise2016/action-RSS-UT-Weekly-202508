@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
   <channel>
     <title><![CDATA[先看评测 聊 3C[YT+]]]></title>
-    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw</link>
+    <link>undefined</link>
     <image>
-      <url>https://yt3.ggpht.com/ytc/AIdro_liINAXhoG6PhATyqemB0DCNqMJDILTmXIUqvYXrhPW_A=s88-c-k-c0x00ffffff-no-rj</url>
+      <url>https://fastly.picsum.photos/id/633/800/800.jpg?hmac=iZqhw4r-bn_CD5FoL9cTGHAtVHxIcv1-FhixG96TMQ4</url>
       <title>先看评测 聊 3C[YT+]</title>
-      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw</link>
+      <link>undefined</link>
     </image>
     <language>en-us</language>
-    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw" rel="self" type="application/rss+xml"/>
+    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[先看评测 聊 3C[YT+]]]></copyright>
     <itunes:author><![CDATA[先看评测 聊 3C[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      先看评测再下单，用实验和数据帮你挑选产品。<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      先看评测再下单，用实验和数据帮你挑选产品。<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCf4YPrRO2clAH-zJcomJaGw</a>
       ]]>
@@ -28,302 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[先看评测 聊 3C[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_liINAXhoG6PhATyqemB0DCNqMJDILTmXIUqvYXrhPW_A=s88-c-k-c0x00ffffff-no-rj"/>
-<item>
-      <title><![CDATA[逻辑折叠韬芯片如何让产品体验更好？麒麟 9050 Pro深度解读]]></title>
-      <link>https://www.youtube.com/watch?v=zaH_Lvr1PmM</link>
-      <itunes:title><![CDATA[逻辑折叠韬芯片如何让产品体验更好？麒麟 9050 Pro深度解读]]></itunes:title>
-      <itunes:author><![CDATA[先看评测]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/zaH_Lvr1PmM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><h1>值得閱讀的理由</h1><ul><li>從訊號、螢幕與拍照等日常體驗，理解麒麟晶片如何影響手機使用感受。</li><li>介紹「邏輯折疊」的設計思路，說明在製程受限時如何透過架構創新改善效能與功耗。</li><li>呈現華為自研晶片在通訊、影像與手機端 AI 等方面的整合與應用。</li></ul><hr /><h1>摘要</h1><h2>從日常體驗看晶片整合</h2><p>作者以麒麟晶片溝通會的內容為主軸，說明華為如何將晶片與手機系統、天線及其他硬體深度整合。為改善通訊表現，華為透過實驗室模擬與外場測試調校策略，並讓基帶、射頻、天線和系統協同運作；據影片介紹，這些做法可在弱網環境提升訊號，並支援高精度定位。Mate 70 全系列也支援「四卡三待」，仰賴多個系統環節共同排程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_191.jpg" /></p><h2>螢幕、影像與 AI 能力</h2><p>在顯示方面，晶片將 AI-HDR 與廣色域處理整合至內建 DPU，並透過主晶片處理校準資料，改善雙層 OLED 在低亮度下可能出現的偏色與發花。影像方面，ISP 效能提升，支援高像素即時拍攝及高動態範圍；外接的 10 倍真光學變焦鏡頭模組，則可由獨立 NPU 與影像演算法協助處理。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_302.jpg" /></p><p>作者接著介紹 NPU 的提升與低功耗微核，後者可支援眼動翻頁、注視時保持螢幕亮起等常駐感應功能。透過 MoE 架構、稀疏化加載與量化技術，手機也能以較少記憶體運行大型模型；影片指出，30B 參數模型的運行記憶體需求可壓至約 2.5GB，並降低運算功耗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_467.jpg" /></p><h2>「邏輯折疊」與麒麟的發展方向</h2><p>面對製程微縮受限，華為採用<strong>邏輯折疊</strong>三維架構，透過雙層堆疊擴大快取與並行計算能力，縮短資料傳輸路徑，以改善功耗、發熱及多任務和影像處理效率。作者將這項技術視為一條仍可持續演進的路線，並提到麒麟 9020 已初步驗證其設計效益。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_599.jpg" /></p><p>最後，作者回顧麒麟晶片從受制約後恢復與追趕，到透過架構創新探索新方向的過程。他認為，儘管目前在幾何微縮方面受到限制，邏輯折疊仍可能為未來發展開啟新的道路；並表示影片呈現的內容只是現場資訊的一部分。</p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><p>华为为什么坚持自己做芯片？究竟能让手机好用在哪儿？这期视频，我们从信号好不好、拍照快不快这些日常体验入手，看看麒麟芯片在背后做了什么？再聊聊“逻辑折叠”这个听起来很复杂的技术，它到底解决了什么问题？</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/zaH_Lvr1PmM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><h1>值得閱讀的理由</h1><ul><li>從訊號、螢幕與拍照等日常體驗，理解麒麟晶片如何影響手機使用感受。</li><li>介紹「邏輯折疊」的設計思路，說明在製程受限時如何透過架構創新改善效能與功耗。</li><li>呈現華為自研晶片在通訊、影像與手機端 AI 等方面的整合與應用。</li></ul><hr /><h1>摘要</h1><h2>從日常體驗看晶片整合</h2><p>作者以麒麟晶片溝通會的內容為主軸，說明華為如何將晶片與手機系統、天線及其他硬體深度整合。為改善通訊表現，華為透過實驗室模擬與外場測試調校策略，並讓基帶、射頻、天線和系統協同運作；據影片介紹，這些做法可在弱網環境提升訊號，並支援高精度定位。Mate 70 全系列也支援「四卡三待」，仰賴多個系統環節共同排程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_191.jpg" /></p><h2>螢幕、影像與 AI 能力</h2><p>在顯示方面，晶片將 AI-HDR 與廣色域處理整合至內建 DPU，並透過主晶片處理校準資料，改善雙層 OLED 在低亮度下可能出現的偏色與發花。影像方面，ISP 效能提升，支援高像素即時拍攝及高動態範圍；外接的 10 倍真光學變焦鏡頭模組，則可由獨立 NPU 與影像演算法協助處理。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_302.jpg" /></p><p>作者接著介紹 NPU 的提升與低功耗微核，後者可支援眼動翻頁、注視時保持螢幕亮起等常駐感應功能。透過 MoE 架構、稀疏化加載與量化技術，手機也能以較少記憶體運行大型模型；影片指出，30B 參數模型的運行記憶體需求可壓至約 2.5GB，並降低運算功耗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_467.jpg" /></p><h2>「邏輯折疊」與麒麟的發展方向</h2><p>面對製程微縮受限，華為採用<strong>邏輯折疊</strong>三維架構，透過雙層堆疊擴大快取與並行計算能力，縮短資料傳輸路徑，以改善功耗、發熱及多任務和影像處理效率。作者將這項技術視為一條仍可持續演進的路線，並提到麒麟 9020 已初步驗證其設計效益。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_599.jpg" /></p><p>最後，作者回顧麒麟晶片從受制約後恢復與追趕，到透過架構創新探索新方向的過程。他認為，儘管目前在幾何微縮方面受到限制，邏輯折疊仍可能為未來發展開啟新的道路；並表示影片呈現的內容只是現場資訊的一部分。</p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><p>华为为什么坚持自己做芯片？究竟能让手机好用在哪儿？这期视频，我们从信号好不好、拍照快不快这些日常体验入手，看看麒麟芯片在背后做了什么？再聊聊“逻辑折叠”这个听起来很复杂的技术，它到底解决了什么问题？</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/zaH_Lvr1PmM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><h1>值得閱讀的理由</h1><ul><li>從訊號、螢幕與拍照等日常體驗，理解麒麟晶片如何影響手機使用感受。</li><li>介紹「邏輯折疊」的設計思路，說明在製程受限時如何透過架構創新改善效能與功耗。</li><li>呈現華為自研晶片在通訊、影像與手機端 AI 等方面的整合與應用。</li></ul><hr /><h1>摘要</h1><h2>從日常體驗看晶片整合</h2><p>作者以麒麟晶片溝通會的內容為主軸，說明華為如何將晶片與手機系統、天線及其他硬體深度整合。為改善通訊表現，華為透過實驗室模擬與外場測試調校策略，並讓基帶、射頻、天線和系統協同運作；據影片介紹，這些做法可在弱網環境提升訊號，並支援高精度定位。Mate 70 全系列也支援「四卡三待」，仰賴多個系統環節共同排程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_191.jpg" /></p><h2>螢幕、影像與 AI 能力</h2><p>在顯示方面，晶片將 AI-HDR 與廣色域處理整合至內建 DPU，並透過主晶片處理校準資料，改善雙層 OLED 在低亮度下可能出現的偏色與發花。影像方面，ISP 效能提升，支援高像素即時拍攝及高動態範圍；外接的 10 倍真光學變焦鏡頭模組，則可由獨立 NPU 與影像演算法協助處理。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_302.jpg" /></p><p>作者接著介紹 NPU 的提升與低功耗微核，後者可支援眼動翻頁、注視時保持螢幕亮起等常駐感應功能。透過 MoE 架構、稀疏化加載與量化技術，手機也能以較少記憶體運行大型模型；影片指出，30B 參數模型的運行記憶體需求可壓至約 2.5GB，並降低運算功耗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_467.jpg" /></p><h2>「邏輯折疊」與麒麟的發展方向</h2><p>面對製程微縮受限，華為採用<strong>邏輯折疊</strong>三維架構，透過雙層堆疊擴大快取與並行計算能力，縮短資料傳輸路徑，以改善功耗、發熱及多任務和影像處理效率。作者將這項技術視為一條仍可持續演進的路線，並提到麒麟 9020 已初步驗證其設計效益。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202508/file-cache/zaH_Lvr1PmM_599.jpg" /></p><p>最後，作者回顧麒麟晶片從受制約後恢復與追趕，到透過架構創新探索新方向的過程。他認為，儘管目前在幾何微縮方面受到限制，邏輯折疊仍可能為未來發展開啟新的道路；並表示影片呈現的內容只是現場資訊的一部分。</p><hr /></final><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=zaH_Lvr1PmM">https://www.youtube.com/watch?v=zaH_Lvr1PmM</a></p><p>华为为什么坚持自己做芯片？究竟能让手机好用在哪儿？这期视频，我们从信号好不好、拍照快不快这些日常体验入手，看看麒麟芯片在背后做了什么？再聊聊“逻辑折叠”这个听起来很复杂的技术，它到底解决了什么问题？</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/zaH_Lvr1PmM/hqdefault.jpg"/>
-      <pubDate>2026-10-31T17:21:59.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[开着舒服，坐着想吐？开完三台销冠小车，我们吵起来了]]></title>
-      <link>https://www.youtube.com/watch?v=HUVlOfvsxPA</link>
-      <itunes:title><![CDATA[开着舒服，坐着想吐？开完三台销冠小车，我们吵起来了]]></itunes:title>
-      <itunes:author><![CDATA[先看评测]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/HUVlOfvsxPA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p>```python?code_reference&code_event_index=1
-# Since we cannot browse YouTube directly without external tools, let's check if we can fetch transcript or if it's unavailable.
-# Wait, the prompt says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
-# Let's see if we can check anything via urllib or if we should just output TRANSCRIPT_UNAVAILABLE or if we can fetch it. 
-# Actually, we don't have internet access (external_communication: NO_EGRESS). Therefore, we cannot access YouTube links directly.
-print("TRANSCRIPT_UNAVAILABLE")
-
-```
-
-```text?code_stdout&code_event_index=1
-TRANSCRIPT_UNAVAILABLE
-
-```
-
-TRANSCRIPT_UNAVAILABLE
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p><p>七万块的入门小车，开起来能有多大差别？这期我们找来了保时捷、SU7 Ultra等车型的车主轮流体验，看看握方向盘的和坐后排的，为什么“吵”起来了？以及这40度的电池，能不能扛住我们的4小时高速挑战？</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/HUVlOfvsxPA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p>```python?code_reference&code_event_index=1
-# Since we cannot browse YouTube directly without external tools, let's check if we can fetch transcript or if it's unavailable.
-# Wait, the prompt says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
-# Let's see if we can check anything via urllib or if we should just output TRANSCRIPT_UNAVAILABLE or if we can fetch it. 
-# Actually, we don't have internet access (external_communication: NO_EGRESS). Therefore, we cannot access YouTube links directly.
-print("TRANSCRIPT_UNAVAILABLE")
-
-```
-
-```text?code_stdout&code_event_index=1
-TRANSCRIPT_UNAVAILABLE
-
-```
-
-TRANSCRIPT_UNAVAILABLE
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p><p>七万块的入门小车，开起来能有多大差别？这期我们找来了保时捷、SU7 Ultra等车型的车主轮流体验，看看握方向盘的和坐后排的，为什么“吵”起来了？以及这40度的电池，能不能扛住我们的4小时高速挑战？</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/HUVlOfvsxPA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p>```python?code_reference&code_event_index=1
-# Since we cannot browse YouTube directly without external tools, let's check if we can fetch transcript or if it's unavailable.
-# Wait, the prompt says: "若完全無法存取影片內容，只回覆 TRANSCRIPT_UNAVAILABLE。"
-# Let's see if we can check anything via urllib or if we should just output TRANSCRIPT_UNAVAILABLE or if we can fetch it. 
-# Actually, we don't have internet access (external_communication: NO_EGRESS). Therefore, we cannot access YouTube links directly.
-print("TRANSCRIPT_UNAVAILABLE")
-
-```
-
-```text?code_stdout&code_event_index=1
-TRANSCRIPT_UNAVAILABLE
-
-```
-
-TRANSCRIPT_UNAVAILABLE
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=HUVlOfvsxPA">https://www.youtube.com/watch?v=HUVlOfvsxPA</a></p><p>七万块的入门小车，开起来能有多大差别？这期我们找来了保时捷、SU7 Ultra等车型的车主轮流体验，看看握方向盘的和坐后排的，为什么“吵”起来了？以及这40度的电池，能不能扛住我们的4小时高速挑战？</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/HUVlOfvsxPA/hqdefault.jpg"/>
-      <pubDate>2026-10-30T16:49:47.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[7万多的小车到底多能装？入门级小车销冠对决【ft.吉利星愿 零跑A10 MG4】]]></title>
-      <link>https://www.youtube.com/watch?v=oYSpwfs1-hU</link>
-      <itunes:title><![CDATA[7万多的小车到底多能装？入门级小车销冠对决【ft.吉利星愿 零跑A10 MG4】]]></itunes:title>
-      <itunes:author><![CDATA[先看评测]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/oYSpwfs1-hU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li>探討 2026 年市場上熱門的 7 萬元人民幣級距入門級純電通勤小車。</li>
-  <li>實際開箱對比吉利星願、零跑 A10 與 MG4 三款銷量與話題車型的外觀、內裝與收納設計。</li>
-  <li>透過真實編輯與新手司機的空間實測、裝載量挑戰，揭開各款小車的實際空間表現與優缺點。</li>
-</ul>
-
-<hr />
-
-<h1>摘要</h1>
-
-<p>本影片由「先看評測」團隊進行專題測試，挑選了三款在 2026 年受關注、價格落在 7 萬元人民幣左右的入門級純電通勤小車：<strong>吉利星願</strong>、<strong>零跑 A10</strong> 以及 <strong>MG4</strong>。測試旨在探討價格相近、配置豐富的小車在實際使用上的表現是否有差異。</p>
-
-<h2>外觀與內裝設計投票</h2>
-<p>團隊組織了數十位同事對三款車的外觀與內裝進行主觀評分與排名。外觀方面，吉利星願憑藉可愛且符合小車期待的風格拿下第一名，零跑 A10 則以圓潤飽滿風格獲得第二。內裝部分，各車型在用料上拉不開巨大差距，但設計感與色彩搭配各有不同，例如 MG4 帶有運動感與較強的色彩層次，零跑內裝則主打軟質材料包覆，不易出錯。</p>
-
-<h2>日常用品收納挑戰</h2>
-<p>為了測試車內收納的合理性，團隊讓新手司機在限定時間內，將 18 件日常用品（如手機、水杯、化妝包等）隨機放入車內。測試發現，各車型的置物空間設計逻辑各有不同：有些車款雖然中控台空間大，但缺乏如專用眼鏡盒等細節考量；部分車款在介面配置或物品放置穩定度上，也需要透過編輯複核來扣分或修正。例如僅 MG4 的前排帶有 12V 接口，其餘車款雖然收納了點菸器但無法直接使用。</p>
-
-<h2>車身尺寸與空間實測</h2>
-<p>在車身尺寸與內部空間的實際量測中，MG4 的外部尺寸相對較大。然而，吉利星願展現了出色的空間利用率，車內實際長度與較大的車款表現相當。不過，評測人員也指出星願的後座坐墊相對較短，實際乘坐時可能會有「小板凳」的感覺；而 MG4 的座椅坐墊較長，腿部支撐更為到位。三款車共同的問題則是方向盤調節範圍有限，駕駛人需要實際試乘體驗。</p>
-
-<h2>前後行李廂裝載能力</h2>
-<p>最後，團隊利用大量的空酒盒對三款車的前後行李廂進行了裝載極限測試。測試結果顯示，吉利星願裝入了 179 盒，MG4 裝入了 199 盒，而零跑 A10 則以微弱優勢拿下第一名。影片尾聲預告，下一期將針對這三款小車的實際道路駕駛表現、高速續航與充電表現進行深入評測。影片網址：<a href="[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)">[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)</a></p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><p>七万块的入门小车，平常通勤出游，空间到底够不够用？这次我们找来吉利星愿、零跑A10和MG4三辆同级销冠，来看看在同事们眼里，谁更好看？谁更好用？以及更关键的，谁更能“装”？</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/oYSpwfs1-hU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li>探討 2026 年市場上熱門的 7 萬元人民幣級距入門級純電通勤小車。</li>
-  <li>實際開箱對比吉利星願、零跑 A10 與 MG4 三款銷量與話題車型的外觀、內裝與收納設計。</li>
-  <li>透過真實編輯與新手司機的空間實測、裝載量挑戰，揭開各款小車的實際空間表現與優缺點。</li>
-</ul>
-
-<hr />
-
-<h1>摘要</h1>
-
-<p>本影片由「先看評測」團隊進行專題測試，挑選了三款在 2026 年受關注、價格落在 7 萬元人民幣左右的入門級純電通勤小車：<strong>吉利星願</strong>、<strong>零跑 A10</strong> 以及 <strong>MG4</strong>。測試旨在探討價格相近、配置豐富的小車在實際使用上的表現是否有差異。</p>
-
-<h2>外觀與內裝設計投票</h2>
-<p>團隊組織了數十位同事對三款車的外觀與內裝進行主觀評分與排名。外觀方面，吉利星願憑藉可愛且符合小車期待的風格拿下第一名，零跑 A10 則以圓潤飽滿風格獲得第二。內裝部分，各車型在用料上拉不開巨大差距，但設計感與色彩搭配各有不同，例如 MG4 帶有運動感與較強的色彩層次，零跑內裝則主打軟質材料包覆，不易出錯。</p>
-
-<h2>日常用品收納挑戰</h2>
-<p>為了測試車內收納的合理性，團隊讓新手司機在限定時間內，將 18 件日常用品（如手機、水杯、化妝包等）隨機放入車內。測試發現，各車型的置物空間設計逻辑各有不同：有些車款雖然中控台空間大，但缺乏如專用眼鏡盒等細節考量；部分車款在介面配置或物品放置穩定度上，也需要透過編輯複核來扣分或修正。例如僅 MG4 的前排帶有 12V 接口，其餘車款雖然收納了點菸器但無法直接使用。</p>
-
-<h2>車身尺寸與空間實測</h2>
-<p>在車身尺寸與內部空間的實際量測中，MG4 的外部尺寸相對較大。然而，吉利星願展現了出色的空間利用率，車內實際長度與較大的車款表現相當。不過，評測人員也指出星願的後座坐墊相對較短，實際乘坐時可能會有「小板凳」的感覺；而 MG4 的座椅坐墊較長，腿部支撐更為到位。三款車共同的問題則是方向盤調節範圍有限，駕駛人需要實際試乘體驗。</p>
-
-<h2>前後行李廂裝載能力</h2>
-<p>最後，團隊利用大量的空酒盒對三款車的前後行李廂進行了裝載極限測試。測試結果顯示，吉利星願裝入了 179 盒，MG4 裝入了 199 盒，而零跑 A10 則以微弱優勢拿下第一名。影片尾聲預告，下一期將針對這三款小車的實際道路駕駛表現、高速續航與充電表現進行深入評測。影片網址：<a href="[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)">[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)</a></p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><p>七万块的入门小车，平常通勤出游，空间到底够不够用？这次我们找来吉利星愿、零跑A10和MG4三辆同级销冠，来看看在同事们眼里，谁更好看？谁更好用？以及更关键的，谁更能“装”？</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/oYSpwfs1-hU/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li>探討 2026 年市場上熱門的 7 萬元人民幣級距入門級純電通勤小車。</li>
-  <li>實際開箱對比吉利星願、零跑 A10 與 MG4 三款銷量與話題車型的外觀、內裝與收納設計。</li>
-  <li>透過真實編輯與新手司機的空間實測、裝載量挑戰，揭開各款小車的實際空間表現與優缺點。</li>
-</ul>
-
-<hr />
-
-<h1>摘要</h1>
-
-<p>本影片由「先看評測」團隊進行專題測試，挑選了三款在 2026 年受關注、價格落在 7 萬元人民幣左右的入門級純電通勤小車：<strong>吉利星願</strong>、<strong>零跑 A10</strong> 以及 <strong>MG4</strong>。測試旨在探討價格相近、配置豐富的小車在實際使用上的表現是否有差異。</p>
-
-<h2>外觀與內裝設計投票</h2>
-<p>團隊組織了數十位同事對三款車的外觀與內裝進行主觀評分與排名。外觀方面，吉利星願憑藉可愛且符合小車期待的風格拿下第一名，零跑 A10 則以圓潤飽滿風格獲得第二。內裝部分，各車型在用料上拉不開巨大差距，但設計感與色彩搭配各有不同，例如 MG4 帶有運動感與較強的色彩層次，零跑內裝則主打軟質材料包覆，不易出錯。</p>
-
-<h2>日常用品收納挑戰</h2>
-<p>為了測試車內收納的合理性，團隊讓新手司機在限定時間內，將 18 件日常用品（如手機、水杯、化妝包等）隨機放入車內。測試發現，各車型的置物空間設計逻辑各有不同：有些車款雖然中控台空間大，但缺乏如專用眼鏡盒等細節考量；部分車款在介面配置或物品放置穩定度上，也需要透過編輯複核來扣分或修正。例如僅 MG4 的前排帶有 12V 接口，其餘車款雖然收納了點菸器但無法直接使用。</p>
-
-<h2>車身尺寸與空間實測</h2>
-<p>在車身尺寸與內部空間的實際量測中，MG4 的外部尺寸相對較大。然而，吉利星願展現了出色的空間利用率，車內實際長度與較大的車款表現相當。不過，評測人員也指出星願的後座坐墊相對較短，實際乘坐時可能會有「小板凳」的感覺；而 MG4 的座椅坐墊較長，腿部支撐更為到位。三款車共同的問題則是方向盤調節範圍有限，駕駛人需要實際試乘體驗。</p>
-
-<h2>前後行李廂裝載能力</h2>
-<p>最後，團隊利用大量的空酒盒對三款車的前後行李廂進行了裝載極限測試。測試結果顯示，吉利星願裝入了 179 盒，MG4 裝入了 199 盒，而零跑 A10 則以微弱優勢拿下第一名。影片尾聲預告，下一期將針對這三款小車的實際道路駕駛表現、高速續航與充電表現進行深入評測。影片網址：<a href="[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)">[https://www.youtube.com/watch?v=oYSpwfs1-hU](https://www.youtube.com/watch?v=oYSpwfs1-hU)</a></p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=oYSpwfs1-hU">https://www.youtube.com/watch?v=oYSpwfs1-hU</a></p><p>七万块的入门小车，平常通勤出游，空间到底够不够用？这次我们找来吉利星愿、零跑A10和MG4三辆同级销冠，来看看在同事们眼里，谁更好看？谁更好用？以及更关键的，谁更能“装”？</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/oYSpwfs1-hU/hqdefault.jpg"/>
-      <pubDate>2026-10-24T04:14:50.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[小米挑战黑暗料理！顶配净烟机，究竟会不会漏烟漏味？]]></title>
-      <link>https://www.youtube.com/watch?v=2daunDnUTaw</link>
-      <itunes:title><![CDATA[小米挑战黑暗料理！顶配净烟机，究竟会不会漏烟漏味？]]></itunes:title>
-      <itunes:author><![CDATA[先看评测]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/2daunDnUTaw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li><strong>極端黑暗料理實測：</strong>本影片深入測試小米第三代米家淨煙機（3MX）在面對瑞典鯡魚罐頭、藍紋起司、北京豆汁及爆炒大肥腸等極端氣味與油煙挑戰時的隔離表現。</li>
-  <li><strong>AI 視覺模型動態調速：</strong>詳細拆解升級的 AI 攝影機與本地識別模型如何即時辨識煙量、動態調節風速，兼顧大風量與低噪音。</li>
-  <li><strong>開放式廚房的真實效能：</strong>透過嚴格的 PM2.5 即時監測與無預警盲測，全面驗證淨煙機在開放式廚房環境下的防漏煙與防漏味能力。</li>
-</ul>
-<hr />
-<h1>摘要</h1>
-<p>這部影片由「先看评测」頻道發布，針對小米第三代米家淨煙機（3MX）進行了極其嚴苛的實測。評測團隊將其安裝在真實的家庭開放式廚房中，透過挑戰高難度的料理來驗證其防漏煙與防漏味的極限。</p>
-
-<h2>極端料理與油煙挑戰</h2>
-<p>評測首先進行了<strong>爆炒大肥腸</strong>的挑戰 <strong>[[01:56](https://www.youtube.com/watch?v=2daunDnUTaw&t=116)]</strong>。肥腸在熱油與辣椒碰撞下會產生大量水汽與油脂爆炸，屬於極易造成油煙外洩的場景。現場部署了 PM2.5 偵測柱進行即時監控，結果顯示在王師傅的大力顛勺與爆炒過程中，淨煙機成功將油煙鎖住，客廳環境的偵測燈柱全程保持綠色，未發生明顯油煙洩漏。</p>
-<p>隨後，團隊更挑戰了世界聞名的「黑暗料理」組合——瑞典進口鯡魚罐頭、藍紋起司以及北京豆汁 <strong>[[05:30](https://www.youtube.com/watch?v=2daunDnUTaw&t=330)]</strong>。開罐瞬間氣味極其衝擊，但在烹煮過程中，淨煙機透過強大的氣流與風向設計，將恐怖的異味完美封印在抽風範圍內。直到菜餚端出後邀請同事進行盲測，眾人才在現場真實感受到強烈的氣味，證明其在氣味隔絕上的驚人效果 <strong>[[07:28](https://www.youtube.com/watch?v=2daunDnUTaw&t=448)]</strong>。</p>
-
-<h2>AI 智慧動態調速與靜音表現</h2>
-<p>傳統淨煙機為了追求防漏煙往往需要開啟最高檔位，但伴隨而來的是極大的噪音。3MX 此次的最大升級之一便是引入了 <strong>AI 攝影機與本地識別模型</strong> <strong>[[10:26](https://www.youtube.com/watch?v=2daunDnUTaw&t=626)]</strong>。攝影機能夠動態辨識鍋內的煙量，自動調節電機轉速。</p>
-<p>在日常烹調與非高峰時段，機器能以較低轉速運行，將噪音控制在 65 分貝左右；僅在油煙大量湧出的關鍵時刻自動拉高轉速至 2000 轉以上 <strong>[[13:17](https://www.youtube.com/watch?v=2daunDnUTaw&t=797)]</strong>。這種精準的動態調整不僅大幅降低了日常使用的噪音，也確保了最關鍵時刻的防護力。</p>
-
-<h2>總結與行業觀察</h2>
-<p>透過多項極端測試，小米米家淨煙機 3MX 成功通過了開放式廚房的油煙與異味考驗。評測最後指出，小米將自身在手機、汽車及大模型領域累積的 AI 能力下放至大家電，透過視覺方案解決了傳統感測器反應慢、壽命短的痛點，這或許預示著 AI 時代對傳統家電行業帶來的深遠影響才剛開始 <strong>[[15:00](https://www.youtube.com/watch?v=2daunDnUTaw&t=900)]</strong>。</p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><p>开放式厨房能不能爆炒中国菜？我们在真实住宅布了满屋 PM2.5 灯柱，拿两道最臭的菜做了实测。</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/2daunDnUTaw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li><strong>極端黑暗料理實測：</strong>本影片深入測試小米第三代米家淨煙機（3MX）在面對瑞典鯡魚罐頭、藍紋起司、北京豆汁及爆炒大肥腸等極端氣味與油煙挑戰時的隔離表現。</li>
-  <li><strong>AI 視覺模型動態調速：</strong>詳細拆解升級的 AI 攝影機與本地識別模型如何即時辨識煙量、動態調節風速，兼顧大風量與低噪音。</li>
-  <li><strong>開放式廚房的真實效能：</strong>透過嚴格的 PM2.5 即時監測與無預警盲測，全面驗證淨煙機在開放式廚房環境下的防漏煙與防漏味能力。</li>
-</ul>
-<hr />
-<h1>摘要</h1>
-<p>這部影片由「先看评测」頻道發布，針對小米第三代米家淨煙機（3MX）進行了極其嚴苛的實測。評測團隊將其安裝在真實的家庭開放式廚房中，透過挑戰高難度的料理來驗證其防漏煙與防漏味的極限。</p>
-
-<h2>極端料理與油煙挑戰</h2>
-<p>評測首先進行了<strong>爆炒大肥腸</strong>的挑戰 <strong>[[01:56](https://www.youtube.com/watch?v=2daunDnUTaw&t=116)]</strong>。肥腸在熱油與辣椒碰撞下會產生大量水汽與油脂爆炸，屬於極易造成油煙外洩的場景。現場部署了 PM2.5 偵測柱進行即時監控，結果顯示在王師傅的大力顛勺與爆炒過程中，淨煙機成功將油煙鎖住，客廳環境的偵測燈柱全程保持綠色，未發生明顯油煙洩漏。</p>
-<p>隨後，團隊更挑戰了世界聞名的「黑暗料理」組合——瑞典進口鯡魚罐頭、藍紋起司以及北京豆汁 <strong>[[05:30](https://www.youtube.com/watch?v=2daunDnUTaw&t=330)]</strong>。開罐瞬間氣味極其衝擊，但在烹煮過程中，淨煙機透過強大的氣流與風向設計，將恐怖的異味完美封印在抽風範圍內。直到菜餚端出後邀請同事進行盲測，眾人才在現場真實感受到強烈的氣味，證明其在氣味隔絕上的驚人效果 <strong>[[07:28](https://www.youtube.com/watch?v=2daunDnUTaw&t=448)]</strong>。</p>
-
-<h2>AI 智慧動態調速與靜音表現</h2>
-<p>傳統淨煙機為了追求防漏煙往往需要開啟最高檔位，但伴隨而來的是極大的噪音。3MX 此次的最大升級之一便是引入了 <strong>AI 攝影機與本地識別模型</strong> <strong>[[10:26](https://www.youtube.com/watch?v=2daunDnUTaw&t=626)]</strong>。攝影機能夠動態辨識鍋內的煙量，自動調節電機轉速。</p>
-<p>在日常烹調與非高峰時段，機器能以較低轉速運行，將噪音控制在 65 分貝左右；僅在油煙大量湧出的關鍵時刻自動拉高轉速至 2000 轉以上 <strong>[[13:17](https://www.youtube.com/watch?v=2daunDnUTaw&t=797)]</strong>。這種精準的動態調整不僅大幅降低了日常使用的噪音，也確保了最關鍵時刻的防護力。</p>
-
-<h2>總結與行業觀察</h2>
-<p>透過多項極端測試，小米米家淨煙機 3MX 成功通過了開放式廚房的油煙與異味考驗。評測最後指出，小米將自身在手機、汽車及大模型領域累積的 AI 能力下放至大家電，透過視覺方案解決了傳統感測器反應慢、壽命短的痛點，這或許預示著 AI 時代對傳統家電行業帶來的深遠影響才剛開始 <strong>[[15:00](https://www.youtube.com/watch?v=2daunDnUTaw&t=900)]</strong>。</p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><p>开放式厨房能不能爆炒中国菜？我们在真实住宅布了满屋 PM2.5 灯柱，拿两道最臭的菜做了实测。</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/2daunDnUTaw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><h1>值得閱讀的理由</h1>
-<ul>
-  <li><strong>極端黑暗料理實測：</strong>本影片深入測試小米第三代米家淨煙機（3MX）在面對瑞典鯡魚罐頭、藍紋起司、北京豆汁及爆炒大肥腸等極端氣味與油煙挑戰時的隔離表現。</li>
-  <li><strong>AI 視覺模型動態調速：</strong>詳細拆解升級的 AI 攝影機與本地識別模型如何即時辨識煙量、動態調節風速，兼顧大風量與低噪音。</li>
-  <li><strong>開放式廚房的真實效能：</strong>透過嚴格的 PM2.5 即時監測與無預警盲測，全面驗證淨煙機在開放式廚房環境下的防漏煙與防漏味能力。</li>
-</ul>
-<hr />
-<h1>摘要</h1>
-<p>這部影片由「先看评测」頻道發布，針對小米第三代米家淨煙機（3MX）進行了極其嚴苛的實測。評測團隊將其安裝在真實的家庭開放式廚房中，透過挑戰高難度的料理來驗證其防漏煙與防漏味的極限。</p>
-
-<h2>極端料理與油煙挑戰</h2>
-<p>評測首先進行了<strong>爆炒大肥腸</strong>的挑戰 <strong>[[01:56](https://www.youtube.com/watch?v=2daunDnUTaw&t=116)]</strong>。肥腸在熱油與辣椒碰撞下會產生大量水汽與油脂爆炸，屬於極易造成油煙外洩的場景。現場部署了 PM2.5 偵測柱進行即時監控，結果顯示在王師傅的大力顛勺與爆炒過程中，淨煙機成功將油煙鎖住，客廳環境的偵測燈柱全程保持綠色，未發生明顯油煙洩漏。</p>
-<p>隨後，團隊更挑戰了世界聞名的「黑暗料理」組合——瑞典進口鯡魚罐頭、藍紋起司以及北京豆汁 <strong>[[05:30](https://www.youtube.com/watch?v=2daunDnUTaw&t=330)]</strong>。開罐瞬間氣味極其衝擊，但在烹煮過程中，淨煙機透過強大的氣流與風向設計，將恐怖的異味完美封印在抽風範圍內。直到菜餚端出後邀請同事進行盲測，眾人才在現場真實感受到強烈的氣味，證明其在氣味隔絕上的驚人效果 <strong>[[07:28](https://www.youtube.com/watch?v=2daunDnUTaw&t=448)]</strong>。</p>
-
-<h2>AI 智慧動態調速與靜音表現</h2>
-<p>傳統淨煙機為了追求防漏煙往往需要開啟最高檔位，但伴隨而來的是極大的噪音。3MX 此次的最大升級之一便是引入了 <strong>AI 攝影機與本地識別模型</strong> <strong>[[10:26](https://www.youtube.com/watch?v=2daunDnUTaw&t=626)]</strong>。攝影機能夠動態辨識鍋內的煙量，自動調節電機轉速。</p>
-<p>在日常烹調與非高峰時段，機器能以較低轉速運行，將噪音控制在 65 分貝左右；僅在油煙大量湧出的關鍵時刻自動拉高轉速至 2000 轉以上 <strong>[[13:17](https://www.youtube.com/watch?v=2daunDnUTaw&t=797)]</strong>。這種精準的動態調整不僅大幅降低了日常使用的噪音，也確保了最關鍵時刻的防護力。</p>
-
-<h2>總結與行業觀察</h2>
-<p>透過多項極端測試，小米米家淨煙機 3MX 成功通過了開放式廚房的油煙與異味考驗。評測最後指出，小米將自身在手機、汽車及大模型領域累積的 AI 能力下放至大家電，透過視覺方案解決了傳統感測器反應慢、壽命短的痛點，這或許預示著 AI 時代對傳統家電行業帶來的深遠影響才剛開始 <strong>[[15:00](https://www.youtube.com/watch?v=2daunDnUTaw&t=900)]</strong>。</p>
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=2daunDnUTaw">https://www.youtube.com/watch?v=2daunDnUTaw</a></p><p>开放式厨房能不能爆炒中国菜？我们在真实住宅布了满屋 PM2.5 灯柱，拿两道最臭的菜做了实测。</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/2daunDnUTaw/hqdefault.jpg"/>
-      <pubDate>2026-10-23T10:00:09.000Z</pubDate>
-    </item></channel>
+    <itunes:image href="https://fastly.picsum.photos/id/633/800/800.jpg?hmac=iZqhw4r-bn_CD5FoL9cTGHAtVHxIcv1-FhixG96TMQ4"/>
+</channel>
 </rss>
